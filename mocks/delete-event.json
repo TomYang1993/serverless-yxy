@@ -1,5 +1,7 @@
 {
-    "body": "{\"content\":\"yxy demo es linter problem\",\"attachment\":\"hello-yxy.jpg\"}",
+    "pathParameters": {
+      "id": "2e8ecd80-aab3-11ea-aae3-719557b94d8d"
+    },
     "requestContext": {
       "identity": {
         "cognitoIdentityId": "USER-yxy-demo"

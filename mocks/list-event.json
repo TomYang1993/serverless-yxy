@@ -1,5 +1,4 @@
 {
-    "body": "{\"content\":\"yxy demo es linter problem\",\"attachment\":\"hello-yxy.jpg\"}",
     "requestContext": {
       "identity": {
         "cognitoIdentityId": "USER-yxy-demo"
